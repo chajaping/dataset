@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../val/images
+test: ../test/images
+
+nc: 28
+names: ['bed', 'book', 'chair', 'chopstick', 'cup', 'dish', 'door', 'dryer', 'fork', 'keyboard', 'laptop', 'mobile', 'monitor', 'mouse', 'pillow', 'refrigerator', 'remote', 'scissors', 'shoe', 'soap', 'sofa', 'spoon', 'table', 'tissue', 'toilet', 'toothbrush', 'toothpaste', 'towel']
